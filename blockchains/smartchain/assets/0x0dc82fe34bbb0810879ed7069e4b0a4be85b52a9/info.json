@@ -1,1 +1,11 @@
-
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "type": "BEP20",
+  "decimals": 6,
+  "description": "Token educativo creado en BNB Smart Chain.",
+  "website": "https://lanttus.com",
+  "explorer": "https://bscscan.com/token/0x0dc82fe34bbb0810879ed7069e4b0a4be85b52a9",
+  "status": "active",
+  "id": "0x0dc82fe34bbb0810879ed7069e4b0a4be85b52a9"
+}
